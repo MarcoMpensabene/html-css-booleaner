@@ -47,4 +47,19 @@ th{
 footer h2{
     color: #7A7A7A;
 }
+.img-cont {
+    position: relative;
+    
 
+}
+.img-cont img{
+    display: block;
+    margin-bottom: 1rem;
+}
+
+.img-text{
+    position: absolute;
+    top: 5%;
+    color: #fff; 
+    font-size: 2rem; 
+}
