@@ -12,3 +12,15 @@ section img{
 #main-title{
     font-size: 3rem;
 }
+
+#Author{
+    color: #838383;
+}
+
+#photos{
+    font-size: 10px;
+}
+
+main{
+    font-weight: 600;
+}
