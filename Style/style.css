@@ -3,6 +3,7 @@ section#head-img{
     background-color: #4EA0FF;
     background-position: top;
     height: 10rem;
+    
 } 
 
 section img{
@@ -16,7 +17,9 @@ section img{
 #Author{
     color: #838383;
 }
-
+.font{
+    font-size: 2rem;
+}
 #photos{
     font-size: 10px;
 }
@@ -62,4 +65,8 @@ footer h2{
     top: 5%;
     color: #fff; 
     font-size: 2rem; 
+}
+
+#blu-title{
+    color: #53BCEB;
 }
