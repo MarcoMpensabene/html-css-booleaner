@@ -33,3 +33,18 @@ main{
 .t-row-color{
     background-color: #B1E5F2;
 }
+table{
+    border-collapse: collapse;
+    width: 100%;
+
+}
+tr{
+height: 4rem;
+}
+th{
+    text-align: left;
+}
+footer h2{
+    color: #7A7A7A;
+}
+
